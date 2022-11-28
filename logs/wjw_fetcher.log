@@ -1,0 +1,2578 @@
+wjw_fetcher 2022-11-28 14:21:55,565  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:21:55,567  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:22:59,729  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 2 time!
+wjw_fetcher 2022-11-28 14:23:57,644  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:23:57,644  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:24:50,604  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:24:50,605  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:25:13,256  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:25:13,256  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:25:16,334  [INFO] {wjw_url_parse.py:519} the url for -> 2022-11-27 is not expected,we specify at -> 2022-11-28
+wjw_fetcher 2022-11-28 14:25:16,334  [INFO] {wjw_url_parse.py:496} analyse the data for -> 2022-11-27
+wjw_fetcher 2022-11-28 14:26:23,998  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:26:23,999  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:26:27,923  [INFO] {wjw_url_parse.py:519} the url for -> 2022-11-27 is not expected,we specify at -> 2022-11-28
+wjw_fetcher 2022-11-28 14:26:27,923  [INFO] {wjw_url_parse.py:496} analyse the data for -> 2022-11-27
+wjw_fetcher 2022-11-28 14:28:44,541  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:28:44,542  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:28:50,566  [INFO] {wjw_url_parse.py:521} the url for -> 2022-11-27 is not expected,we specify at -> 2022-11-28
+wjw_fetcher 2022-11-28 14:28:50,569  [INFO] {wjw_url_parse.py:498} analyse the data for -> 2022-11-27
+wjw_fetcher 2022-11-28 14:30:16,185  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:30:16,186  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:30:20,958  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:30:46,555  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:30:46,556  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:30:49,723  [INFO] {wjw_url_parse.py:498} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:31:15,493  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:31:15,494  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:31:18,877  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:33:02,184  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:33:02,185  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:33:07,378  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:33:26,415  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:33:26,416  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:33:29,678  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:34:00,736  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:34:00,737  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:34:04,228  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:34:36,091  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:34:36,092  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:34:40,422  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:36:04,333  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:36:04,334  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:36:09,355  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:36:14,966  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-28\截至11月27日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 14:36:14,968  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-28\{}.txt
+wjw_fetcher 2022-11-28 14:36:49,766  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:36:49,767  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:36:53,834  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:36:57,238  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:36:57,256  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:36:57,270  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:36:57,281  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:36:57,351  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:36:57,380  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:36:57,388  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:36:57,423  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:36:57,436  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:36:57,454  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:36:57,464  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:36:57,521  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:36:57,542  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:36:57,581  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:36:58,369  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-28\截至11月27日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 14:36:58,410  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-28\{}.txt
+wjw_fetcher 2022-11-28 14:40:00,675  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:40:00,675  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:40:06,218  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:40:09,558  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:40:09,568  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:40:09,587  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:40:09,642  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:40:09,690  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:40:09,710  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:40:09,724  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:40:09,791  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:40:09,807  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:40:09,819  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:40:09,840  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:40:09,856  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:40:09,867  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:40:09,895  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:40:10,930  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 14:40:10,942  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.txt
+wjw_fetcher 2022-11-28 14:42:14,218  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:42:14,219  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:42:21,788  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:42:37,518  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:42:37,603  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:42:37,633  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:42:37,657  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:42:37,695  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:42:37,713  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:42:37,746  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:42:37,813  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:42:37,833  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:42:37,854  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:42:37,883  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:42:37,918  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:42:37,968  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:42:38,068  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:42:39,579  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 14:42:39,583  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.txt
+wjw_fetcher 2022-11-28 14:47:52,962  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:47:53,030  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:48:01,477  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:48:08,423  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:48:08,439  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:48:08,456  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:48:08,472  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:48:08,507  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:48:08,597  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:48:08,625  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:48:08,659  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:48:08,707  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:48:08,739  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:48:08,774  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:48:08,833  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:48:08,919  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:48:09,002  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:50:08,908  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:50:08,948  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:50:17,160  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:50:22,762  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:50:22,806  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:50:22,873  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:50:22,936  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:50:23,043  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:50:23,102  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:50:23,145  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:50:23,219  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:50:23,256  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:50:23,304  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:50:23,350  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:50:23,439  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:50:23,512  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:50:23,590  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:50:29,704  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 14:50:29,715  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.txt
+wjw_fetcher 2022-11-28 14:53:45,496  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:53:45,496  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:53:51,374  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:53:55,531  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:53:55,550  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:53:55,601  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:53:55,625  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:53:55,673  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:53:55,746  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:53:55,783  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:53:55,817  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:53:55,834  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:53:55,869  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:53:55,888  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:53:55,948  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:53:55,994  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:53:56,034  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:54:28,291  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 14:54:28,293  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 14:54:34,258  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-28
+wjw_fetcher 2022-11-28 14:54:40,187  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3822
+1            境外输入病例     74
+2   境外由无症状感染者转为确诊病例      7
+3            新增本土病例   3748
+4   本土无由症状感染者转为确诊病例   1244
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 14:54:40,233  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->   province  value
+0       广东     24
+1       北京     16
+2       福建     13
+3       山东      6
+4       辽宁      4
+5       上海      4
+6      内蒙古      3
+7       江苏      2
+8       四川      1
+9       陕西      1 
+wjw_fetcher 2022-11-28 14:54:40,318  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:54:40,374  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东   1347
+1        北京    840
+2        重庆    238
+3        山西    162
+4        河南    157
+5        四川    157
+6        云南    133
+7       内蒙古    121
+8        山东     90
+9        浙江     65
+10       福建     56
+11      黑龙江     54
+12       陕西     54
+13       辽宁     50
+14       河北     40
+15       江苏     30
+16       新疆     24
+17       湖南     23
+18       贵州     22
+19       湖北     18
+20       上海     16
+21       海南     10
+22       吉林      8
+23       安徽      8
+24       甘肃      8
+25       天津      6
+26       西藏      5
+27       青海      4
+28       广西      2 
+wjw_fetcher 2022-11-28 14:54:40,451  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1      内蒙古      2
+2       北京      1
+3       四川      1 
+wjw_fetcher 2022-11-28 14:54:40,491  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2103
+1        境外输入病例      57
+2          本土病例    2046
+3  解除医学观察的密切接触者  207918
+4        重症病例变化      -7 
+wjw_fetcher 2022-11-28 14:54:40,536  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    982
+1        北京    231
+2        重庆    213
+3        四川    152
+4       内蒙古     84
+5        山西     67
+6        河南     56
+7        云南     50
+8        陕西     40
+9        江苏     29
+10       新疆     23
+11       浙江     16
+12       湖南     16
+13       辽宁     12
+14       贵州     12
+15      黑龙江     10
+16       山东      9
+17       河北      8
+18       福建      8
+19       海南      8
+20       甘肃      5
+21       青海      5
+22       上海      4
+23       安徽      2
+24       湖北      2
+25       广西      2 
+wjw_fetcher 2022-11-28 14:54:40,673  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    781
+1        疑似病例      0
+2      累计确诊病例  27431
+3     计治愈出院病例  26650
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 14:54:40,736  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     33129
+1          重症病例       104
+2      累计治愈出院病例    273262
+3        累计死亡病例      5233
+4      累计报告确诊病例    311624
+5        现有疑似病例        30
+6    累计追踪到密切接触者  12072501
+7  尚在医学观察的密切接触者   1851120 
+wjw_fetcher 2022-11-28 14:54:40,778  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36525
+1      境外输入    221
+2      本土病例  36304 
+wjw_fetcher 2022-11-28 14:54:40,838  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   9447
+1        广东   7761
+2        北京   3048
+3        四川   1710
+4        吉林   1578
+5        山西   1158
+6        陕西    988
+7        新疆    982
+8        河北    949
+9        山东    882
+10       青海    754
+11       天津    689
+12       河南    665
+13       湖北    665
+14       甘肃    637
+15       云南    550
+16       宁夏    469
+17      内蒙古    444
+18       辽宁    425
+19      黑龙江    412
+20       江苏    398
+21       广西    396
+22       湖南    373
+23       安徽    323
+24       浙江    190
+25       上海    128
+26       福建     91
+27       贵州     75
+28       江西     66
+29       海南     37
+30       西藏     13
+31       兵团      1 
+wjw_fetcher 2022-11-28 14:54:40,897  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   13005
+1                 境外输入     115
+2                 本土病例   12890
+3             当日转为确诊病例    1251
+4         当日转为确诊病例(本土)    1244
+5       当日转为确诊病例(境外输入)       7
+6        尚在医学观察的无症状感染者  342488
+7        尚在医学观察的无症状感染者  340796
+8  尚在医学观察的无症状感染者(境外输入)    1692 
+wjw_fetcher 2022-11-28 14:54:40,970  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5126
+1        重庆  1607
+2        新疆  1009
+3        河南   724
+4        河北   670
+5        北京   644
+6       内蒙古   563
+7       黑龙江   357
+8        陕西   272
+9        四川   218
+10       湖南   207
+11       宁夏   207
+12       山东   200
+13       山西   174
+14       云南   145
+15       安徽   120
+16       青海   100
+17       江苏    96
+18       湖北    76
+19       广西    62
+20       甘肃    62
+21       贵州    55
+22       辽宁    34
+23       福建    31
+24       吉林    27
+25       上海    27
+26       浙江    26
+27       江西    21
+28       天津    17
+29       海南     6
+30       西藏     6
+31       兵团     1 
+wjw_fetcher 2022-11-28 14:54:41,092  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8724915
+1      香港特别行政区   456398
+2    香港特别行政区出院    98227
+3    香港特别行政区死亡    10692
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8267720
+8       台湾地区出院    13742
+9       台湾地区死亡    14235 
+wjw_fetcher 2022-11-28 14:54:42,570  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 14:54:42,576  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-27\截至11月27日24时新型冠状病毒肺炎疫情最新情况.txt
+wjw_fetcher 2022-11-28 15:12:33,702  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 15:12:33,703  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 15:12:40,332  [INFO] {wjw_url_parse.py:523} the url for -> 2022-11-25 is not expected,we specify at -> 2022-11-28
+wjw_fetcher 2022-11-28 15:12:40,333  [INFO] {wjw_url_parse.py:523} the url for -> 2022-11-25 is not expected,we specify at -> 2022-11-27
+wjw_fetcher 2022-11-28 15:12:40,334  [INFO] {wjw_url_parse.py:499} analyse the data for -> 2022-11-26
+wjw_fetcher 2022-11-28 15:12:44,353  [INFO] {wjw_url_parse.py:557} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3474
+1            境外输入病例     69
+2   境外由无症状感染者转为确诊病例      5
+3            新增本土病例   3405
+4   本土无由症状感染者转为确诊病例    707
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      5
+9          新增本土疑似病例      2
+10         新增境外疑似病例      3 
+wjw_fetcher 2022-11-28 15:12:44,384  [INFO] {wjw_url_parse.py:557} 境外输入明细(按省份) ->    province  value
+0        广东     25
+1        江苏     17
+2        福建     10
+3       内蒙古      3
+4        上海      3
+5        重庆      3
+6        辽宁      2
+7        四川      2
+8        北京      1
+9        天津      1
+10       山东      1
+11       湖南      1 
+wjw_fetcher 2022-11-28 15:12:44,404  [INFO] {wjw_url_parse.py:557} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       北京      1
+1      内蒙古      1
+2       福建      1
+3       山东      1
+4       湖南      1 
+wjw_fetcher 2022-11-28 15:12:44,469  [INFO] {wjw_url_parse.py:557} 本土病例明细(按省份) ->    province  value
+0        广东    991
+1        北京    586
+2        山西    324
+3        重庆    199
+4        河南    186
+5        四川    159
+6       黑龙江    134
+7        云南    134
+8       内蒙古    116
+9        山东    110
+10       河北    101
+11       辽宁     50
+12       福建     45
+13       陕西     39
+14       浙江     34
+15       贵州     31
+16       江苏     29
+17       湖南     29
+18       新疆     21
+19       广西     13
+20       海南     13
+21       湖北     12
+22       吉林     11
+23       上海     11
+24       青海      7
+25       天津      6
+26       江西      6
+27       甘肃      5
+28       西藏      2
+29       安徽      1 
+wjw_fetcher 2022-11-28 15:12:44,496  [INFO] {wjw_url_parse.py:557} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       北京      1
+1      内蒙古      1
+2       福建      1
+3       山东      1
+4       湖南      1 
+wjw_fetcher 2022-11-28 15:12:44,532  [INFO] {wjw_url_parse.py:557} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    1893
+1        境外输入病例      44
+2          本土病例    1849
+3  解除医学观察的密切接触者  172634
+4        重症病例变化      -9 
+wjw_fetcher 2022-11-28 15:12:44,549  [INFO] {wjw_url_parse.py:557} 本土新增治愈明细(按省份) ->    province  value
+0        广东    823
+1        重庆    263
+2       内蒙古    235
+3        北京    117
+4        河南     78
+5        四川     78
+6        山西     54
+7        云南     33
+8        陕西     30
+9        浙江     19
+10       贵州     15
+11       新疆     13
+12       江苏     12
+13      黑龙江     11
+14       福建     11
+15       甘肃     10
+16       安徽      8
+17       山东      7
+18       湖南      7
+19       河北      6
+20       上海      4
+21       湖北      4
+22       西藏      3
+23       天津      2
+24       江西      2
+25       青海      2
+26       辽宁      1
+27       海南      1 
+wjw_fetcher 2022-11-28 15:12:44,566  [INFO] {wjw_url_parse.py:557} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    760
+1        疑似病例      4
+2      累计确诊病例  27296
+3     计治愈出院病例  26536
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 15:12:44,592  [INFO] {wjw_url_parse.py:557} 本土病例汇总 ->             key     value
+0        现有确诊病例     29745
+1          重症病例       112
+2      累计治愈出院病例    269116
+3        累计死亡病例      5232
+4      累计报告确诊病例    304093
+5        现有疑似病例         6
+6    累计追踪到密切接触者  11472149
+7  尚在医学观察的密切接触者   1647782 
+wjw_fetcher 2022-11-28 15:12:44,614  [INFO] {wjw_url_parse.py:557} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  31709
+1      境外输入    205
+2      本土病例  31504 
+wjw_fetcher 2022-11-28 15:12:44,646  [INFO] {wjw_url_parse.py:557} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   7522
+1        广东   7405
+2        北京   2009
+3        河北   1618
+4        四川   1374
+5        山西   1152
+6        青海   1036
+7        新疆    946
+8        陕西    818
+9        河南    804
+10       山东    784
+11       甘肃    712
+12       湖北    694
+13       吉林    611
+14       天津    578
+15       辽宁    478
+16      内蒙古    415
+17       云南    386
+18       江苏    353
+19      黑龙江    321
+20       广西    288
+21       宁夏    280
+22       湖南    275
+23       浙江    133
+24       安徽    128
+25       江西    101
+26       贵州    101
+27       上海     78
+28       福建     62
+29       海南     27
+30       西藏     14
+31       兵团      1 
+wjw_fetcher 2022-11-28 15:12:44,746  [INFO] {wjw_url_parse.py:557} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   12624
+1                 境外输入     127
+2                 本土病例   12497
+3             当日转为确诊病例     712
+4         当日转为确诊病例(本土)     707
+5       当日转为确诊病例(境外输入)       5
+6        尚在医学观察的无症状感染者  300965
+7        尚在医学观察的无症状感染者  299495
+8  尚在医学观察的无症状感染者(境外输入)    1470 
+wjw_fetcher 2022-11-28 15:12:44,787  [INFO] {wjw_url_parse.py:557} 本土解除医学观察明细(按省份) ->    province value
+0       内蒙古  3785
+1        广东  2314
+2        重庆  2182
+3        新疆   754
+4        河南   709
+5        河北   412
+6        北京   399
+7        湖南   340
+8       黑龙江   218
+9        云南   170
+10       四川   155
+11       青海   104
+12       山西   102
+13       山东   101
+14       陕西    99
+15       甘肃    97
+16       湖北    88
+17       安徽    81
+18       吉林    79
+19       江苏    64
+20       宁夏    53
+21       天津    50
+22       浙江    31
+23       贵州    28
+24       辽宁    22
+25       福建    22
+26       江西    13
+27       上海     9
+28       广西     9
+29       西藏     5
+30       海南     2 
+wjw_fetcher 2022-11-28 15:12:44,832  [INFO] {wjw_url_parse.py:557} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8696499
+1      香港特别行政区   454525
+2    香港特别行政区出院    97639
+3    香港特别行政区死亡    10663
+4      澳门特别行政区      796
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8241178
+8       台湾地区出院    13742
+9       台湾地区死亡    14181 
+wjw_fetcher 2022-11-28 15:12:46,432  [INFO] {wjw_url_parse.py:513} write excel data -> epidemic_data\2022-11-25\截至11月25日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 15:12:46,434  [INFO] {wjw_url_parse.py:518} write text data -> epidemic_data\2022-11-25\截至11月25日24时新型冠状病毒肺炎疫情最新情况.txt
+wjw_fetcher 2022-11-28 15:15:17,181  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 15:15:17,181  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 15:16:40,272  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 15:16:40,273  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 15:19:36,606  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 15:19:36,606  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 15:19:41,820  [INFO] {wjw_url_parse.py:411} date -> 2022-11-27 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:19:41,820  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.9512607084469633 for next op!
+wjw_fetcher 2022-11-28 15:19:43,781  [INFO] {wjw_url_parse.py:385} analyse the data for -> 2022-11-26
+wjw_fetcher 2022-11-28 15:22:36,506  [INFO] {wjw_url_parse.py:122} fetch the latest data,and we will no any formatter for the url!
+wjw_fetcher 2022-11-28 15:22:36,507  [INFO] {wjw_url_parse.py:129} try to get the wjw tabel data for 1 time!
+wjw_fetcher 2022-11-28 15:22:41,332  [INFO] {wjw_url_parse.py:411} date -> 2022-11-27 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:22:41,332  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.9814681406330097 for next op!
+wjw_fetcher 2022-11-28 15:22:43,329  [INFO] {wjw_url_parse.py:385} analyse the data for -> 2022-11-26
+wjw_fetcher 2022-11-28 15:22:47,143  [INFO] {wjw_url_parse.py:558} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3709
+1            境外输入病例     61
+2   境外由无症状感染者转为确诊病例      4
+3            新增本土病例   3648
+4   本土无由症状感染者转为确诊病例   1334
+5            新增死亡病例      1
+6          新增本土死亡病例      1
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 15:22:47,174  [INFO] {wjw_url_parse.py:558} 境外输入明细(按省份) ->   province  value
+0       广东     23
+1       上海      8
+2       福建      8
+3       山东      5
+4       重庆      5
+5       四川      4
+6       北京      3
+7      内蒙古      2
+8       江苏      2
+9       陕西      1 
+wjw_fetcher 2022-11-28 15:22:47,255  [INFO] {wjw_url_parse.py:558} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       福建      2
+1       广东      1
+2       重庆      1 
+wjw_fetcher 2022-11-28 15:22:47,281  [INFO] {wjw_url_parse.py:558} 本土病例明细(按省份) ->    province  value
+0        广东   1386
+1        北京    747
+2        重庆    194
+3        山西    189
+4        河南    169
+5       黑龙江    132
+6        四川    117
+7       内蒙古    104
+8        山东     93
+9        云南     83
+10       河北     79
+11       浙江     64
+12       陕西     51
+13       辽宁     46
+14       福建     36
+15       贵州     28
+16       湖南     26
+17       江苏     20
+18       新疆     20
+19       上海     11
+20       安徽     10
+21       湖北      8
+22       海南      7
+23       青海      7
+24       广西      5
+25       甘肃      5
+26       吉林      4
+27       宁夏      3
+28       西藏      2
+29       天津      1
+30       江西      1 
+wjw_fetcher 2022-11-28 15:22:47,327  [INFO] {wjw_url_parse.py:558} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       福建      2
+1       广东      1
+2       重庆      1 
+wjw_fetcher 2022-11-28 15:22:47,357  [INFO] {wjw_url_parse.py:558} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    2043
+1        境外输入病例      57
+2          本土病例    1986
+3  解除医学观察的密切接触者  178073
+4        重症病例变化      -1 
+wjw_fetcher 2022-11-28 15:22:47,389  [INFO] {wjw_url_parse.py:558} 本土新增治愈明细(按省份) ->    province  value
+0        广东    936
+1        重庆    222
+2        北京    216
+3        四川    112
+4       内蒙古     86
+5        河南     83
+6        山西     56
+7        云南     55
+8        湖南     49
+9        陕西     34
+10       江苏     32
+11       新疆     14
+12       河北     13
+13       贵州     12
+14       辽宁     10
+15      黑龙江     10
+16       天津      8
+17       山东      8
+18       福建      7
+19       青海      7
+20       甘肃      6
+21       浙江      3
+22       湖北      3
+23       上海      2
+24       安徽      1
+25       宁夏      1 
+wjw_fetcher 2022-11-28 15:22:47,491  [INFO] {wjw_url_parse.py:558} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    764
+1        疑似病例      0
+2      累计确诊病例  27357
+3     计治愈出院病例  26593
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 15:22:47,543  [INFO] {wjw_url_parse.py:558} 本土病例汇总 ->             key     value
+0        现有确诊病例     31410
+1          重症病例       111
+2      累计治愈出院病例    271159
+3        累计死亡病例      5233
+4      累计报告确诊病例    307802
+5        现有疑似病例         2
+6    累计追踪到密切接触者  11773650
+7  尚在医学观察的密切接触者   1768321 
+wjw_fetcher 2022-11-28 15:22:47,594  [INFO] {wjw_url_parse.py:558} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  36082
+1      境外输入    224
+2      本土病例  35858 
+wjw_fetcher 2022-11-28 15:22:47,618  [INFO] {wjw_url_parse.py:558} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   8667
+1        广东   7705
+2        北京   3560
+3        河北   1545
+4        四川   1512
+5        吉林   1203
+6        青海   1071
+7        山西   1041
+8        新疆    972
+9        陕西    902
+10       山东    810
+11       河南    799
+12       湖北    697
+13       甘肃    689
+14       天津    569
+15       辽宁    546
+16       宁夏    474
+17      内蒙古    450
+18      黑龙江    439
+19       云南    415
+20       江苏    397
+21       广西    300
+22       安徽    269
+23       湖南    202
+24       浙江    144
+25       上海    119
+26       贵州    114
+27       福建    108
+28       江西     92
+29       海南     35
+30       西藏     12 
+wjw_fetcher 2022-11-28 15:22:47,667  [INFO] {wjw_url_parse.py:558} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   15490
+1                 境外输入      97
+2                 本土病例   15393
+3             当日转为确诊病例    1338
+4         当日转为确诊病例(本土)    1334
+5       当日转为确诊病例(境外输入)       4
+6        尚在医学观察的无症状感染者  320219
+7        尚在医学观察的无症状感染者  318626
+8  尚在医学观察的无症状感染者(境外输入)    1593 
+wjw_fetcher 2022-11-28 15:22:47,695  [INFO] {wjw_url_parse.py:558} 本土解除医学观察明细(按省份) ->    province value
+0        广东  5349
+1        湖南  1752
+2        重庆  1718
+3       内蒙古  1411
+4        河南  1039
+5        河北   860
+6        新疆   814
+7        北京   763
+8        四川   192
+9        山东   191
+10       陕西   148
+11       山西   128
+12       云南   120
+13       安徽   110
+14      黑龙江   104
+15       甘肃   103
+16       湖北    98
+17       江苏    84
+18       天津    65
+19       青海    65
+20       宁夏    62
+21       吉林    48
+22       贵州    36
+23       上海    35
+24       辽宁    30
+25       福建    26
+26       江西    20
+27       浙江     9
+28       广西     6
+29       海南     5
+30       西藏     2 
+wjw_fetcher 2022-11-28 15:22:47,739  [INFO] {wjw_url_parse.py:558} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8710653
+1      香港特别行政区   455433
+2    香港特别行政区出院    97988
+3    香港特别行政区死亡    10672
+4      澳门特别行政区      797
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8254423
+8       台湾地区出院    13742
+9       台湾地区死亡    14210 
+wjw_fetcher 2022-11-28 15:22:48,600  [INFO] {wjw_url_parse.py:401} write excel data -> epidemic_data\2022-11-26\截至11月26日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 15:22:48,603  [INFO] {wjw_url_parse.py:406} write text data -> epidemic_data\2022-11-26\2022-11-26.txt
+wjw_fetcher 2022-11-28 15:22:48,605  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.0779182883928566 for next op!
+wjw_fetcher 2022-11-28 15:22:49,694  [INFO] {wjw_url_parse.py:385} analyse the data for -> 2022-11-25
+wjw_fetcher 2022-11-28 15:23:02,450  [INFO] {wjw_url_parse.py:558} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3474
+1            境外输入病例     69
+2   境外由无症状感染者转为确诊病例      5
+3            新增本土病例   3405
+4   本土无由症状感染者转为确诊病例    707
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      5
+9          新增本土疑似病例      2
+10         新增境外疑似病例      3 
+wjw_fetcher 2022-11-28 15:23:02,543  [INFO] {wjw_url_parse.py:558} 境外输入明细(按省份) ->    province  value
+0        广东     25
+1        江苏     17
+2        福建     10
+3       内蒙古      3
+4        上海      3
+5        重庆      3
+6        辽宁      2
+7        四川      2
+8        北京      1
+9        天津      1
+10       山东      1
+11       湖南      1 
+wjw_fetcher 2022-11-28 15:23:02,565  [INFO] {wjw_url_parse.py:558} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       北京      1
+1      内蒙古      1
+2       福建      1
+3       山东      1
+4       湖南      1 
+wjw_fetcher 2022-11-28 15:23:02,596  [INFO] {wjw_url_parse.py:558} 本土病例明细(按省份) ->    province  value
+0        广东    991
+1        北京    586
+2        山西    324
+3        重庆    199
+4        河南    186
+5        四川    159
+6       黑龙江    134
+7        云南    134
+8       内蒙古    116
+9        山东    110
+10       河北    101
+11       辽宁     50
+12       福建     45
+13       陕西     39
+14       浙江     34
+15       贵州     31
+16       江苏     29
+17       湖南     29
+18       新疆     21
+19       广西     13
+20       海南     13
+21       湖北     12
+22       吉林     11
+23       上海     11
+24       青海      7
+25       天津      6
+26       江西      6
+27       甘肃      5
+28       西藏      2
+29       安徽      1 
+wjw_fetcher 2022-11-28 15:23:02,637  [INFO] {wjw_url_parse.py:558} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       北京      1
+1      内蒙古      1
+2       福建      1
+3       山东      1
+4       湖南      1 
+wjw_fetcher 2022-11-28 15:23:02,657  [INFO] {wjw_url_parse.py:558} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    1893
+1        境外输入病例      44
+2          本土病例    1849
+3  解除医学观察的密切接触者  172634
+4        重症病例变化      -9 
+wjw_fetcher 2022-11-28 15:23:02,674  [INFO] {wjw_url_parse.py:558} 本土新增治愈明细(按省份) ->    province  value
+0        广东    823
+1        重庆    263
+2       内蒙古    235
+3        北京    117
+4        河南     78
+5        四川     78
+6        山西     54
+7        云南     33
+8        陕西     30
+9        浙江     19
+10       贵州     15
+11       新疆     13
+12       江苏     12
+13      黑龙江     11
+14       福建     11
+15       甘肃     10
+16       安徽      8
+17       山东      7
+18       湖南      7
+19       河北      6
+20       上海      4
+21       湖北      4
+22       西藏      3
+23       天津      2
+24       江西      2
+25       青海      2
+26       辽宁      1
+27       海南      1 
+wjw_fetcher 2022-11-28 15:23:02,714  [INFO] {wjw_url_parse.py:558} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    760
+1        疑似病例      4
+2      累计确诊病例  27296
+3     计治愈出院病例  26536
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 15:23:02,738  [INFO] {wjw_url_parse.py:558} 本土病例汇总 ->             key     value
+0        现有确诊病例     29745
+1          重症病例       112
+2      累计治愈出院病例    269116
+3        累计死亡病例      5232
+4      累计报告确诊病例    304093
+5        现有疑似病例         6
+6    累计追踪到密切接触者  11472149
+7  尚在医学观察的密切接触者   1647782 
+wjw_fetcher 2022-11-28 15:23:02,757  [INFO] {wjw_url_parse.py:558} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  31709
+1      境外输入    205
+2      本土病例  31504 
+wjw_fetcher 2022-11-28 15:23:02,773  [INFO] {wjw_url_parse.py:558} 本土新增无症状感染明细(按省份) ->    province  value
+0        重庆   7522
+1        广东   7405
+2        北京   2009
+3        河北   1618
+4        四川   1374
+5        山西   1152
+6        青海   1036
+7        新疆    946
+8        陕西    818
+9        河南    804
+10       山东    784
+11       甘肃    712
+12       湖北    694
+13       吉林    611
+14       天津    578
+15       辽宁    478
+16      内蒙古    415
+17       云南    386
+18       江苏    353
+19      黑龙江    321
+20       广西    288
+21       宁夏    280
+22       湖南    275
+23       浙江    133
+24       安徽    128
+25       江西    101
+26       贵州    101
+27       上海     78
+28       福建     62
+29       海南     27
+30       西藏     14
+31       兵团      1 
+wjw_fetcher 2022-11-28 15:23:02,791  [INFO] {wjw_url_parse.py:558} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   12624
+1                 境外输入     127
+2                 本土病例   12497
+3             当日转为确诊病例     712
+4         当日转为确诊病例(本土)     707
+5       当日转为确诊病例(境外输入)       5
+6        尚在医学观察的无症状感染者  300965
+7        尚在医学观察的无症状感染者  299495
+8  尚在医学观察的无症状感染者(境外输入)    1470 
+wjw_fetcher 2022-11-28 15:23:02,808  [INFO] {wjw_url_parse.py:558} 本土解除医学观察明细(按省份) ->    province value
+0       内蒙古  3785
+1        广东  2314
+2        重庆  2182
+3        新疆   754
+4        河南   709
+5        河北   412
+6        北京   399
+7        湖南   340
+8       黑龙江   218
+9        云南   170
+10       四川   155
+11       青海   104
+12       山西   102
+13       山东   101
+14       陕西    99
+15       甘肃    97
+16       湖北    88
+17       安徽    81
+18       吉林    79
+19       江苏    64
+20       宁夏    53
+21       天津    50
+22       浙江    31
+23       贵州    28
+24       辽宁    22
+25       福建    22
+26       江西    13
+27       上海     9
+28       广西     9
+29       西藏     5
+30       海南     2 
+wjw_fetcher 2022-11-28 15:23:02,838  [INFO] {wjw_url_parse.py:558} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8696499
+1      香港特别行政区   454525
+2    香港特别行政区出院    97639
+3    香港特别行政区死亡    10663
+4      澳门特别行政区      796
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8241178
+8       台湾地区出院    13742
+9       台湾地区死亡    14181 
+wjw_fetcher 2022-11-28 15:23:03,046  [INFO] {wjw_url_parse.py:401} write excel data -> epidemic_data\2022-11-25\截至11月25日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 15:23:03,048  [INFO] {wjw_url_parse.py:406} write text data -> epidemic_data\2022-11-25\2022-11-25.txt
+wjw_fetcher 2022-11-28 15:23:03,054  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.980558015452381 for next op!
+wjw_fetcher 2022-11-28 15:23:05,051  [INFO] {wjw_url_parse.py:385} analyse the data for -> 2022-11-24
+wjw_fetcher 2022-11-28 15:23:09,728  [INFO] {wjw_url_parse.py:558} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   3103
+1            境外输入病例     62
+2   境外由无症状感染者转为确诊病例      2
+3            新增本土病例   3041
+4   本土无由症状感染者转为确诊病例    708
+5            新增死亡病例      0
+6          新增本土死亡病例      0
+7          新增境外死亡病例      0
+8           新增增疑似病例      1
+9          新增本土疑似病例      0
+10         新增境外疑似病例      1 
+wjw_fetcher 2022-11-28 15:23:09,764  [INFO] {wjw_url_parse.py:558} 境外输入明细(按省份) ->    province  value
+0        广东     23
+1        福建     10
+2        上海      9
+3        北京      8
+4        陕西      4
+5        山东      2
+6        重庆      2
+7       内蒙古      1
+8        江苏      1
+9        四川      1
+10       云南      1 
+wjw_fetcher 2022-11-28 15:23:09,795  [INFO] {wjw_url_parse.py:558} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       北京      1
+1       福建      1 
+wjw_fetcher 2022-11-28 15:23:09,820  [INFO] {wjw_url_parse.py:558} 本土病例明细(按省份) ->    province  value
+0        广东    892
+1        北京    424
+2        河北    329
+3        重庆    258
+4        山西    208
+5        河南    140
+6        四川    123
+7       黑龙江    108
+8        山东     88
+9       内蒙古     85
+10       浙江     51
+11       云南     47
+12       贵州     42
+13       福建     41
+14       江苏     32
+15       陕西     30
+16       湖南     29
+17       辽宁     24
+18       新疆     20
+19       湖北     12
+20       上海      9
+21       江西      9
+22       青海      9
+23       吉林      8
+24       甘肃      6
+25       安徽      5
+26       海南      5
+27       天津      3
+28       广西      2
+29       西藏      2 
+wjw_fetcher 2022-11-28 15:23:09,855  [INFO] {wjw_url_parse.py:558} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       北京      1
+1       福建      1 
+wjw_fetcher 2022-11-28 15:23:09,873  [INFO] {wjw_url_parse.py:558} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    1752
+1        境外输入病例      50
+2          本土病例    1702
+3  解除医学观察的密切接触者  144352
+4        重症病例变化       5 
+wjw_fetcher 2022-11-28 15:23:09,898  [INFO] {wjw_url_parse.py:558} 本土新增治愈明细(按省份) ->    province  value
+0        广东    980
+1        重庆    162
+2        北京    129
+3       内蒙古    116
+4        四川     91
+5        山西     42
+6        河南     39
+7        陕西     19
+8        贵州     15
+9        新疆     15
+10       江苏     14
+11       云南     12
+12       甘肃     10
+13       福建      9
+14       青海      9
+15       河北      7
+16       湖南      6
+17      黑龙江      5
+18       浙江      4
+19       山东      4
+20       海南      4
+21       西藏      4
+22       上海      2
+23       湖北      2
+24       辽宁      1
+25       安徽      1 
+wjw_fetcher 2022-11-28 15:23:09,928  [INFO] {wjw_url_parse.py:558} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    735
+1        疑似病例      1
+2      累计确诊病例  27227
+3     计治愈出院病例  26492
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 15:23:09,942  [INFO] {wjw_url_parse.py:558} 本土病例汇总 ->             key     value
+0        现有确诊病例     28164
+1          重症病例       121
+2      累计治愈出院病例    267223
+3        累计死亡病例      5232
+4      累计报告确诊病例    300619
+5        现有疑似病例         1
+6    累计追踪到密切接触者  11178362
+7  尚在医学观察的密切接触者   1527908 
+wjw_fetcher 2022-11-28 15:23:09,957  [INFO] {wjw_url_parse.py:558} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  29840
+1      境外输入    186
+2      本土病例  29654 
+wjw_fetcher 2022-11-28 15:23:09,971  [INFO] {wjw_url_parse.py:558} 本土新增无症状感染明细(按省份) ->    province  value
+0        广东   7584
+1        重庆   6242
+2        河北   3046
+3        北京   1436
+4        四川   1187
+5        新疆    957
+6        甘肃    870
+7        陕西    793
+8        青海    729
+9        山东    726
+10       山西    724
+11       河南    719
+12       吉林    570
+13       湖北    559
+14      内蒙古    545
+15       天津    418
+16       辽宁    394
+17       江苏    317
+18       云南    302
+19      黑龙江    288
+20       广西    259
+21       宁夏    241
+22       安徽    152
+23       湖南    139
+24       浙江    133
+25       贵州    109
+26       上海     77
+27       江西     60
+28       福建     35
+29       海南     28
+30       西藏     12
+31       兵团      3 
+wjw_fetcher 2022-11-28 15:23:09,987  [INFO] {wjw_url_parse.py:558} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者    9548
+1                 境外输入      89
+2                 本土病例    9459
+3             当日转为确诊病例     710
+4         当日转为确诊病例(本土)     708
+5       当日转为确诊病例(境外输入)       2
+6        尚在医学观察的无症状感染者  282592
+7        尚在医学观察的无症状感染者  281195
+8  尚在医学观察的无症状感染者(境外输入)    1397 
+wjw_fetcher 2022-11-28 15:23:10,007  [INFO] {wjw_url_parse.py:558} 本土解除医学观察明细(按省份) ->    province value
+0        广东  3623
+1        重庆  1451
+2       内蒙古   853
+3        新疆   850
+4        河南   639
+5        河北   398
+6        北京   272
+7        四川   174
+8       黑龙江   172
+9        山西   144
+10       山东   112
+11       江苏   104
+12       宁夏    99
+13       甘肃    94
+14       陕西    89
+15       安徽    72
+16       云南    58
+17       湖北    50
+18       青海    47
+19       福建    29
+20       贵州    25
+21       天津    24
+22       湖南    20
+23       辽宁    17
+24       上海    12
+25       吉林    11
+26       西藏    10
+27       江西     6
+28       浙江     2
+29       广西     2 
+wjw_fetcher 2022-11-28 15:23:10,037  [INFO] {wjw_url_parse.py:558} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8681368
+1      香港特别行政区   453577
+2    香港特别行政区出院    97338
+3    香港特别行政区死亡    10647
+4      澳门特别行政区      796
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8226995
+8       台湾地区出院    13742
+9       台湾地区死亡    14125 
+wjw_fetcher 2022-11-28 15:23:10,176  [INFO] {wjw_url_parse.py:401} write excel data -> epidemic_data\2022-11-24\截至11月24日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 15:23:10,178  [INFO] {wjw_url_parse.py:406} write text data -> epidemic_data\2022-11-24\2022-11-24.txt
+wjw_fetcher 2022-11-28 15:23:10,181  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.8905053889821577 for next op!
+wjw_fetcher 2022-11-28 15:23:13,091  [INFO] {wjw_url_parse.py:385} analyse the data for -> 2022-11-23
+wjw_fetcher 2022-11-28 15:23:17,996  [INFO] {wjw_url_parse.py:558} 新增病例汇总数据 ->                 key  value
+0            新增确诊病例   4010
+1            境外输入病例     83
+2   境外由无症状感染者转为确诊病例      8
+3            新增本土病例   3927
+4   本土无由症状感染者转为确诊病例   1690
+5            新增死亡病例      1
+6          新增本土死亡病例      1
+7          新增境外死亡病例      0
+8           新增增疑似病例      0
+9          新增本土疑似病例      0
+10         新增境外疑似病例      0 
+wjw_fetcher 2022-11-28 15:23:18,024  [INFO] {wjw_url_parse.py:558} 境外输入明细(按省份) ->    province  value
+0        江苏     26
+1        广东     19
+2        北京      8
+3        福建      7
+4        四川      6
+5        上海      4
+6        重庆      4
+7        云南      4
+8        陕西      3
+9       内蒙古      1
+10       浙江      1 
+wjw_fetcher 2022-11-28 15:23:18,070  [INFO] {wjw_url_parse.py:558} 境外由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1       云南      2
+2       浙江      1
+3       福建      1
+4       四川      1 
+wjw_fetcher 2022-11-28 15:23:18,099  [INFO] {wjw_url_parse.py:558} 本土病例明细(按省份) ->    province  value
+0        广东   1791
+1        北京    509
+2        重庆    409
+3        山西    247
+4        四川    194
+5        河南    159
+6       黑龙江     98
+7       内蒙古     87
+8        河北     64
+9        山东     52
+10       辽宁     39
+11       陕西     37
+12       浙江     35
+13       贵州     34
+14       江苏     28
+15       福建     28
+16       湖南     23
+17       云南     23
+18       新疆     18
+19       上海      9
+20       湖北      9
+21       青海      8
+22       吉林      7
+23       甘肃      7
+24       海南      5
+25       广西      3
+26       安徽      2
+27       天津      1
+28       江西      1 
+wjw_fetcher 2022-11-28 15:23:18,147  [INFO] {wjw_url_parse.py:558} 本土由无症状感染者转为确诊病例明细(按省份) ->   province  value
+0       广东      3
+1       云南      2
+2       浙江      1
+3       福建      1
+4       四川      1 
+wjw_fetcher 2022-11-28 15:23:18,164  [INFO] {wjw_url_parse.py:558} 新增治愈汇总数据 ->             key   value
+0    当日新增治愈出院病例    1826
+1        境外输入病例      67
+2          本土病例    1759
+3  解除医学观察的密切接触者  141582
+4        重症病例变化       3 
+wjw_fetcher 2022-11-28 15:23:18,181  [INFO] {wjw_url_parse.py:558} 本土新增治愈明细(按省份) ->    province  value
+0        广东    821
+1        重庆    220
+2       内蒙古    196
+3        北京    181
+4        河南     94
+5        四川     47
+6        山西     40
+7        陕西     35
+8        江苏     17
+9        云南     16
+10       新疆     15
+11       贵州     14
+12       甘肃     13
+13       青海     12
+14       浙江      7
+15      黑龙江      6
+16       福建      6
+17       辽宁      5
+18       山东      5
+19       湖南      5
+20       河北      2
+21       江西      1
+22       宁夏      1 
+wjw_fetcher 2022-11-28 15:23:18,206  [INFO] {wjw_url_parse.py:558} 境外输入病例汇总 ->           key  value
+0  境外输入现有确诊病例    723
+1        疑似病例      0
+2      累计确诊病例  27165
+3     计治愈出院病例  26442
+4        死亡病例      0 
+wjw_fetcher 2022-11-28 15:23:18,229  [INFO] {wjw_url_parse.py:558} 本土病例汇总 ->             key  value
+0        现有确诊病例      0
+1          重症病例      0
+2      累计治愈出院病例      0
+3        累计死亡病例      0
+4      累计报告确诊病例      0
+5        现有疑似病例      0
+6    累计追踪到密切接触者      0
+7  尚在医学观察的密切接触者      0 
+wjw_fetcher 2022-11-28 15:23:18,249  [INFO] {wjw_url_parse.py:558} 新增无症状感染汇总 ->         key  value
+0  新增无症状感染者  27646
+1      境外输入    129
+2      本土病例  27517 
+wjw_fetcher 2022-11-28 15:23:18,274  [INFO] {wjw_url_parse.py:558} 本土新增无症状感染明细(按省份) ->    province  value
+0        广东   7505
+1        重庆   7437
+2        北京   1139
+3        四川   1091
+4        新疆    943
+5        河北    882
+6        甘肃    860
+7        山西    778
+8        陕西    758
+9        山东    747
+10       青海    696
+11      内蒙古    561
+12       河南    536
+13       湖北    487
+14       天津    456
+15       广西    363
+16      黑龙江    323
+17       吉林    312
+18       江苏    305
+19       辽宁    263
+20       云南    260
+21       宁夏    172
+22       湖南    131
+23       贵州    121
+24       浙江    102
+25       安徽     87
+26       江西     72
+27       上海     58
+28       福建     33
+29       海南     24
+30       西藏     11
+31       兵团      4 
+wjw_fetcher 2022-11-28 15:23:18,306  [INFO] {wjw_url_parse.py:558} 医学观察汇总 ->                    key   value
+0      当日解除医学观察的无症状感染者   10131
+1                 境外输入     117
+2                 本土病例   10014
+3             当日转为确诊病例    1698
+4         当日转为确诊病例(本土)    1690
+5       当日转为确诊病例(境外输入)       8
+6        尚在医学观察的无症状感染者  263010
+7        尚在医学观察的无症状感染者  261708
+8  尚在医学观察的无症状感染者(境外输入)    1302 
+wjw_fetcher 2022-11-28 15:23:18,348  [INFO] {wjw_url_parse.py:558} 本土解除医学观察明细(按省份) ->    province value
+0        重庆  2894
+1       内蒙古  2049
+2        广东  1599
+3        新疆   814
+4        河南   535
+5        河北   515
+6       黑龙江   305
+7        北京   243
+8        山东   117
+9        四川   115
+10       湖北    95
+11       甘肃    87
+12       山西    78
+13       江苏    74
+14       福建    58
+15       云南    58
+16       湖南    54
+17       陕西    54
+18       安徽    52
+19       宁夏    52
+20       辽宁    35
+21       贵州    27
+22       天津    26
+23       青海    26
+24       江西    17
+25       西藏    11
+26       上海    10
+27       吉林     5
+28       浙江     5
+29       广西     4 
+wjw_fetcher 2022-11-28 15:23:18,398  [INFO] {wjw_url_parse.py:558} 港澳台汇总 ->            key    value
+0  港澳台地区通报确诊病例  8664234
+1      香港特别行政区   452483
+2    香港特别行政区出院    97012
+3    香港特别行政区死亡    10634
+4      澳门特别行政区      796
+5    澳门特别行政区出院      789
+6    澳门特别行政区死亡        6
+7         台湾地区  8210955
+8       台湾地区出院    13742
+9       台湾地区死亡    14060 
+wjw_fetcher 2022-11-28 15:23:18,554  [INFO] {wjw_url_parse.py:401} write excel data -> epidemic_data\2022-11-23\截至11月23日24时新型冠状病毒肺炎疫情最新情况.xlsx
+wjw_fetcher 2022-11-28 15:23:18,557  [INFO] {wjw_url_parse.py:406} write text data -> epidemic_data\2022-11-23\2022-11-23.txt
+wjw_fetcher 2022-11-28 15:23:18,562  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.4000439559261961 for next op!
+wjw_fetcher 2022-11-28 15:23:18,968  [INFO] {wjw_url_parse.py:411} date -> 2022-11-21 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:18,970  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.8740629270781635 for next op!
+wjw_fetcher 2022-11-28 15:23:21,859  [INFO] {wjw_url_parse.py:411} date -> 2022-11-20 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:21,863  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.9960883925387618 for next op!
+wjw_fetcher 2022-11-28 15:23:23,868  [INFO] {wjw_url_parse.py:411} date -> 2022-11-19 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:23,871  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.3571850618887935 for next op!
+wjw_fetcher 2022-11-28 15:23:26,240  [INFO] {wjw_url_parse.py:411} date -> 2022-11-18 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:26,241  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.2711465296893629 for next op!
+wjw_fetcher 2022-11-28 15:23:26,523  [INFO] {wjw_url_parse.py:411} date -> 2022-11-17 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:26,524  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.6770383021698927 for next op!
+wjw_fetcher 2022-11-28 15:23:29,204  [INFO] {wjw_url_parse.py:411} date -> 2022-11-15 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:29,205  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.4171426792489883 for next op!
+wjw_fetcher 2022-11-28 15:23:29,643  [INFO] {wjw_url_parse.py:411} date -> 2022-11-14 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:29,644  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.5919954081372765 for next op!
+wjw_fetcher 2022-11-28 15:23:31,245  [INFO] {wjw_url_parse.py:411} date -> 2022-11-13 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:31,246  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.1261931110982667 for next op!
+wjw_fetcher 2022-11-28 15:23:31,384  [INFO] {wjw_url_parse.py:411} date -> 2022-11-12 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:31,388  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.6683371383082874 for next op!
+wjw_fetcher 2022-11-28 15:23:33,069  [INFO] {wjw_url_parse.py:411} date -> 2022-11-11 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:33,074  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.6916168614465548 for next op!
+wjw_fetcher 2022-11-28 15:23:35,783  [INFO] {wjw_url_parse.py:411} date -> 2022-11-09 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:35,784  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.16462789945738687 for next op!
+wjw_fetcher 2022-11-28 15:23:35,957  [INFO] {wjw_url_parse.py:411} date -> 2022-11-08 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:35,959  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.7674349759486301 for next op!
+wjw_fetcher 2022-11-28 15:23:36,740  [INFO] {wjw_url_parse.py:411} date -> 2022-11-07 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:36,741  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.2757008008620807 for next op!
+wjw_fetcher 2022-11-28 15:23:38,020  [INFO] {wjw_url_parse.py:411} date -> 2022-11-06 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:38,022  [INFO] {wjw_url_parse.py:415} sleeping for time -> 0.7958770241661491 for next op!
+wjw_fetcher 2022-11-28 15:23:38,835  [INFO] {wjw_url_parse.py:411} date -> 2022-11-05 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:38,837  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.2713769173035745 for next op!
+wjw_fetcher 2022-11-28 15:23:41,123  [INFO] {wjw_url_parse.py:411} date -> 2022-11-22 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:41,125  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.7563640689506315 for next op!
+wjw_fetcher 2022-11-28 15:23:43,900  [INFO] {wjw_url_parse.py:411} date -> 2022-11-16 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:43,905  [INFO] {wjw_url_parse.py:415} sleeping for time -> 2.9177547602824614 for next op!
+wjw_fetcher 2022-11-28 15:23:46,844  [INFO] {wjw_url_parse.py:411} date -> 2022-11-10 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:46,845  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.462430237999241 for next op!
+wjw_fetcher 2022-11-28 15:23:48,323  [INFO] {wjw_url_parse.py:411} date -> 2022-11-04 out of range,we specify 2022-11-23 ~ 2022-11-26!we will ignore this
+wjw_fetcher 2022-11-28 15:23:48,324  [INFO] {wjw_url_parse.py:415} sleeping for time -> 1.1142746542235185 for next op!
